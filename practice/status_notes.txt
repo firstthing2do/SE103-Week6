@@ -1,0 +1,7 @@
+Student Name: Imanishimwe Aime Emmanuel
+
+What I check before committing:
+Before i commit i usually check what i updated and what i added to the staged area and check if they match with the message am giving for the commit message, so to commit them to the local repo.
+
+What I am committing now and why:
+Now am going to commit what was staged which include the commit_plan.txt file in the practice folder and this file that we are in that is first to be staged, why am doing this commit it is becuase i made some updates on the repo and staged the changes.
