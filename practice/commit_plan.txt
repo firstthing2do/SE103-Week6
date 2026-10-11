@@ -1,0 +1,10 @@
+Student Name: Imanishimwe Aime Emmanuel
+
+Commit 1 purpose:
+document my small-commit plan
+
+Commit 2 purpose:
+record my inspect-before-commit habit
+
+Why smaller commits are better than one giant commit:
+Small commits are better than one giant commit because they brifly tell the reader what is being done at any point in time which clearly give meaning and sence while one giant commit gives the overview of what was updated but can clearly show them in any point in time or evident them.
