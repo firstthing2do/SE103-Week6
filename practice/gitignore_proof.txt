@@ -1,0 +1,13 @@
+Student Name: Imanishimwe Aime Emmanuel
+
+Patterns in my .gitignore:
+.DS_Store
+*.log
+temp/
+secret.env
+
+What git status showed about the ignored files:
+git status didn't show that the ignored files where also waited to be staged like the lest of the files
+
+Why committing secrets is dangerous:
+It is dangerous because they can be exposed to danger given the fact that they are uploaded to the internet where they can be expolited.
