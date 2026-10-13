@@ -1,0 +1,12 @@
+Student Name: Imanishimwe Aime Emmanuel
+GitHub Username: firstthing2do
+Repository: SE103-Week6
+Repository URL: https://github.com/firstthing2do/SE103-Week6
+
+Git habits I demonstrated this week:
+Writing cleaner and brief commit message, Running the pull request with care.
+
+One mistake-prevention habit I will keep:
+Trying to memorize all the commands they are.
+
+All required files are on main: Yes
