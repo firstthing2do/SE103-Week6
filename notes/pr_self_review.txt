@@ -1,0 +1,13 @@
+Student Name: Imanishimwe Aime Emmanuel
+
+What changed:
+We migrated our primary database query engine from standard ORM calls to an optimized, raw SQL batch execution pipeline for processing monthly analytics.
+
+How I verified the change:
+I executed benchmark scripts locally against a mock database populated with two million records, measuring an 82% reduction in query execution time.
+
+One possible improvement a reviewer might suggest:
+A reviewer might note that writing raw SQL strings directly within the repository layer bypasses the built-in SQL injection protections of our ORM framework.
+
+Professional response I would give:
+Thank you for the critical feedback. I used raw strings here to quickly benchmark the indexing performance, but you are absolutely right about the security risk. I will refactor this to use fully parameterized queries through the ORM's safe execution interface to guarantee input sanitization before merging.
