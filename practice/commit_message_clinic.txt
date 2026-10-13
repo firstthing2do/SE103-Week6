@@ -1,0 +1,22 @@
+Student Name: Imanishimwe Aime Emmanuel
+
+Weak message 1: updates
+Improved message 1: 
+add password reset email template
+Why this is better:
+ It replaces a vague, single-word label with a standard conventional commit format that specifies both the type of change and the exact component affected
+
+Weak message 2: final final
+Improved message 2:
+resolve payment gateway timeout on mobile
+Why this is better:
+ It replaces a panicked timestamp or placeholder phrase with concrete technical context so future developers know what bug was actually resolved
+
+Weak message 3: clean up deprecated user endpoints
+Improved message 3:
+ clean up deprecated user endpoints
+Why this is better:
+It replaces lazy, low-effort slang with an explicit description of the codebase area that was restructured or cleaned.
+
+My personal commit message rule:
+A concise summary of what I changed and why and if I cannot explain the update in under 50 characters, my commit is likely trying to bundle too many unrelated changes together.
